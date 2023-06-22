@@ -6,6 +6,8 @@
     --dark: #040F28;
 }
 
+
+
 .pt-6 {
     padding-top: 90px;
 }
@@ -118,7 +120,7 @@
 }
 
 @media (max-width: 991.98px) {
-    .navbar-dark .navbar-nav .nav-link  {
+    .navbar-dark .navbar-nav .nav-link {
         margin-left: 0;
         padding: 10px 0;
     }
@@ -241,6 +243,7 @@
 }
 
 @media (min-width: 992px) {
+
     .testimonial,
     .contact-form {
         margin-left: -90px;
